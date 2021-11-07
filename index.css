@@ -1,0 +1,74 @@
+.aboutMe {
+    border: 0 white solid ;
+    border-radius: 3px;
+    background-color: white;
+    height: 40%;
+    width: 20%;
+    margin-top: 45px;
+    margin-left: 50px
+    ;
+}
+
+.onl {
+    border: 0 white solid ;
+    border-radius: 3px;
+    background-color: white;
+    height: 40%;
+    width: 30%;
+    margin-top: 45px;
+    margin-left: 40px;
+}
+
+
+.routeImg{
+    border-radius: 50%;
+}
+
+.centerImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center{
+    text-align: center;
+}
+
+.styleWord1{
+    color: gray;
+    text-align: center;
+    font-size: 25px;
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+
+.styleWord2{
+    font-weight: bold;
+    font-size: 29px;
+    padding-top: 5px;
+}
+
+.styleWord3{
+    color: gray;
+    font-style: normal;
+    font-family: "Times New Roman";
+    text-align: center;
+}
+
+.styleWord4{
+    font-size: 19.5px;
+    font-weight: bold;
+}
+
+.styleWord5{
+    color: gray;
+    font-size: 19.5px;
+    padding-left: 50px;
+}
+
+.img{
+    width: 30px;
+    height: 30px;
+}

@@ -5,18 +5,18 @@
     height: 40%;
     width: 20%;
     margin-top: 45px;
-    margin-left: 50px
-    ;
+    margin-left: 50px;
 }
 
 .onl {
     border: 0 white solid ;
-    border-radius: 3px;
+    border-radius: 4px;
     background-color: white;
     height: 40%;
-    width: 30%;
+    width: 27%;
     margin-top: 45px;
     margin-left: 40px;
+    padding-left: 3px;
 }
 
 
@@ -33,6 +33,7 @@
 .center{
     text-align: center;
 }
+
 
 .styleWord1{
     color: gray;
@@ -65,10 +66,10 @@
 .styleWord5{
     color: gray;
     font-size: 19.5px;
-    padding-left: 50px;
 }
 
 .img{
-    width: 30px;
-    height: 30px;
+    width: 34px;
+    height: 34px;
+    padding-left: 4px;
 }

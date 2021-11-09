@@ -19,6 +19,17 @@
     padding-left: 3px;
 }
 
+.web {
+    border: 0 yellow solid ;
+    border-radius: 4px;
+    background-color: rgba(30, 43, 112, 0.85);
+    height: 40%;
+    width: 90%;
+    margin-top: 45px;
+    margin-left: 40px;
+    padding-left: 3px;
+}
+
 
 .routeImg{
     border-radius: 50%;

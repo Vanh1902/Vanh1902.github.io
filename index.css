@@ -1,7 +1,7 @@
 .aboutMe {
     border: 0 white solid ;
     border-radius: 3px;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.829);
     height: 40%;
     width: 20%;
     margin-top: 45px;
@@ -9,9 +9,9 @@
 }
 
 .onl {
-    border: 0 white solid ;
+    border: 0 rgba(255, 255, 255, 0.829) solid ;
     border-radius: 4px;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.829);
     height: 40%;
     width: 27%;
     margin-top: 45px;
